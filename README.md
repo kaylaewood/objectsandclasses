@@ -8,13 +8,13 @@ Practice for passing objects as arguments.
 
 ## How to Run The Tests
 
-Start by passing the Material tests using:
+Start by passing the **Material** tests using:
 
 ```
 npm test src/material-test.js
 ```
 
-Then, pass the Craft tests using:
+Then, pass the **Craft** tests using:
 
 ```
 npm test src/craft-test.js
